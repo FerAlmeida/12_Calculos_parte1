@@ -1,2 +1,2 @@
-# 12_Calculos_parte1
- Fazendo Cálculos com PANDAS
+# 6_Carregando_Dados_parte2
+ Carregando dados com Pandas
